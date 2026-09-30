@@ -1,0 +1,16 @@
+# Environnement virtuel Python (recréé par `make` à partir de requirements.txt)
+.venv/
+
+# Fichiers compilés par Python
+__pycache__/
+*.pyc
+
+# Graphique généré à chaque exécution (la copie pour le README est dans docs/)
+courbe.png
+
+# Archives
+*.zip
+
+# Fichiers de l'éditeur et du système
+.vscode/
+.DS_Store
