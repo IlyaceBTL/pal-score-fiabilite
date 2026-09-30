@@ -1,0 +1,167 @@
+{
+  "description": "Données FICTIVES mais réalistes : relevés déjà validés, servant de référence. Ordres de grandeur calés sur des fiches publiques Plastique à la loupe.",
+  "sites": [
+    {
+      "site_id": "S1",
+      "nom": "Plage de la Réserve",
+      "commune": "Argelès-sur-Mer",
+      "milieu": "plage",
+      "latitude": 42.5790,
+      "longitude": 3.0460
+    },
+    {
+      "site_id": "S2",
+      "nom": "Plage du Créneau",
+      "commune": "Narbonne",
+      "milieu": "plage",
+      "latitude": 43.1440,
+      "longitude": 3.1510
+    },
+    {
+      "site_id": "S3",
+      "nom": "Plage du Lido",
+      "commune": "Sète",
+      "milieu": "plage",
+      "latitude": 43.3700,
+      "longitude": 3.6200
+    },
+    {
+      "site_id": "S4",
+      "nom": "Berge de l'Agly",
+      "commune": "Rivesaltes",
+      "milieu": "berge",
+      "latitude": 42.7680,
+      "longitude": 2.8760
+    }
+  ],
+  "releves": [
+    {
+      "releve_id": "H01",
+      "site_id": "S1",
+      "date": "2021-10-05",
+      "dechets_100m": 172,
+      "plastiques_100m": 121,
+      "type_dominant": "usage_unique"
+    },
+    {
+      "releve_id": "H02",
+      "site_id": "S1",
+      "date": "2022-10-11",
+      "dechets_100m": 191,
+      "plastiques_100m": 138,
+      "type_dominant": "usage_unique"
+    },
+    {
+      "releve_id": "H03",
+      "site_id": "S1",
+      "date": "2023-09-28",
+      "dechets_100m": 168,
+      "plastiques_100m": 115,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "H04",
+      "site_id": "S1",
+      "date": "2024-10-03",
+      "dechets_100m": 185,
+      "plastiques_100m": 133,
+      "type_dominant": "usage_unique"
+    },
+    {
+      "releve_id": "H05",
+      "site_id": "S2",
+      "date": "2021-11-16",
+      "dechets_100m": 82,
+      "plastiques_100m": 52,
+      "type_dominant": "emballages_souples"
+    },
+    {
+      "releve_id": "H06",
+      "site_id": "S2",
+      "date": "2022-11-08",
+      "dechets_100m": 96,
+      "plastiques_100m": 63,
+      "type_dominant": "emballages_souples"
+    },
+    {
+      "releve_id": "H07",
+      "site_id": "S2",
+      "date": "2023-11-09",
+      "dechets_100m": 77,
+      "plastiques_100m": 50,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "H08",
+      "site_id": "S2",
+      "date": "2024-11-14",
+      "dechets_100m": 91,
+      "plastiques_100m": 61,
+      "type_dominant": "emballages_souples"
+    },
+    {
+      "releve_id": "H09",
+      "site_id": "S3",
+      "date": "2022-03-22",
+      "dechets_100m": 243,
+      "plastiques_100m": 180,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "H10",
+      "site_id": "S3",
+      "date": "2023-03-14",
+      "dechets_100m": 268,
+      "plastiques_100m": 196,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "H11",
+      "site_id": "S3",
+      "date": "2024-03-19",
+      "dechets_100m": 231,
+      "plastiques_100m": 168,
+      "type_dominant": "emballages_souples"
+    },
+    {
+      "releve_id": "H12",
+      "site_id": "S3",
+      "date": "2025-03-11",
+      "dechets_100m": 257,
+      "plastiques_100m": 185,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "H13",
+      "site_id": "S4",
+      "date": "2021-12-07",
+      "dechets_100m": 214,
+      "plastiques_100m": 150,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "H14",
+      "site_id": "S4",
+      "date": "2022-12-13",
+      "dechets_100m": 238,
+      "plastiques_100m": 171,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "H15",
+      "site_id": "S4",
+      "date": "2023-12-15",
+      "dechets_100m": 235,
+      "plastiques_100m": 167,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "H16",
+      "site_id": "S4",
+      "date": "2024-12-10",
+      "dechets_100m": 221,
+      "plastiques_100m": 155,
+      "type_dominant": "emballages_souples"
+    }
+  ]
+}

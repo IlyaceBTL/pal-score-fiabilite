@@ -1,0 +1,95 @@
+{
+  "description": "Données FICTIVES : nouveaux relevés saisis par les classes, pas encore vérifiés. Certains peuvent contenir des erreurs.",
+  "releves": [
+    {
+      "releve_id": "N01",
+      "site_id": "S1",
+      "date": "2025-10-07",
+      "latitude": 42.5791,
+      "longitude": 3.0462,
+      "dechets_100m": 178,
+      "plastiques_100m": 126,
+      "type_dominant": "usage_unique"
+    },
+    {
+      "releve_id": "N02",
+      "site_id": "S2",
+      "date": "2025-11-13",
+      "latitude": 43.1438,
+      "longitude": 3.1512,
+      "dechets_100m": 88,
+      "plastiques_100m": 58,
+      "type_dominant": "emballages_souples"
+    },
+    {
+      "releve_id": "N03",
+      "site_id": "S3",
+      "date": "2026-03-10",
+      "latitude": 3.6201,
+      "longitude": 43.3702,
+      "dechets_100m": 249,
+      "plastiques_100m": 181,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "N04",
+      "site_id": "S4",
+      "date": "2025-12-09",
+      "latitude": 42.7679,
+      "longitude": 2.8758,
+      "dechets_100m": 226,
+      "plastiques_100m": 312,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "N05",
+      "site_id": "S2",
+      "date": "2025-11-20",
+      "latitude": 43.1441,
+      "longitude": 3.1509,
+      "dechets_100m": 940,
+      "plastiques_100m": 640,
+      "type_dominant": "emballages_souples"
+    },
+    {
+      "releve_id": "N06",
+      "site_id": "S3",
+      "date": "2026-03-17",
+      "latitude": 43.3698,
+      "longitude": 3.6197,
+      "dechets_100m": 262,
+      "plastiques_100m": 190,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "N07",
+      "site_id": "S1",
+      "date": "2025-10-14",
+      "latitude": 42.5789,
+      "longitude": 3.0458,
+      "dechets_100m": null,
+      "plastiques_100m": 118,
+      "type_dominant": "usage_unique"
+    },
+    {
+      "releve_id": "N08",
+      "site_id": "S4",
+      "date": "2025-12-16",
+      "latitude": 42.7681,
+      "longitude": 2.8762,
+      "dechets_100m": 289,
+      "plastiques_100m": 205,
+      "type_dominant": "fragments"
+    },
+    {
+      "releve_id": "N09",
+      "site_id": "S2",
+      "date": "2025-11-13",
+      "latitude": 43.1438,
+      "longitude": 3.1512,
+      "dechets_100m": 88,
+      "plastiques_100m": 58,
+      "type_dominant": "emballages_souples"
+    }
+  ]
+}
